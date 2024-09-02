@@ -4,7 +4,7 @@
 <br />
 <br />
 
-- 🔭你好呀！💡👋<img align='right' src='https://image.gincode.icu/file/e687c4ac42ce8d6a7ad01.png' width="30%">
+- 🔭你好呀！💡👋<img align='right' src='https://image.gincode.icu/file/e687c4ac42ce8d6a7ad01.png' width="20%">
 
 - 🤔这里是曙光，会点小技术，爱折腾，想做一个有意思的前端工程师也是一名合格的MJJ
 
