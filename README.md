@@ -9,7 +9,7 @@
 - 🤔这里是曙光，会点小技术，爱折腾，想做一个有意思的前端工程师也是一名合格的MJJ
 
 - ⚡ Fun fact:喜欢看动漫，喜欢看小说，喜欢听音乐，喜欢看电影，喜欢游戏
-[![header.png](https://img.933999.xyz/i/2024/09/02/66d51bf694126.png)](https://img.933999.xyz/i/2024/09/02/66d51bf694126.png)
+[![header.png](https://minio-img.933999.xyz/test1/2024/09/02/66d51ceae1564.png)](https://minio-img.933999.xyz/test1/2024/09/02/66d51ceae1564.png)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Xuenew)
 [![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](1287986063@qq.com)
