@@ -9,9 +9,7 @@
 - 🤔这里是曙光，会点小技术，爱折腾，想做一个有意思的前端工程师也是一名合格的MJJ
 
 - ⚡ Fun fact:喜欢看动漫，喜欢看小说，喜欢听音乐，喜欢看电影，喜欢游戏
-[![header.png](https://minio-img.933999.xyz/test1/2024/09/02/66d51ceae1564.png)](https://minio-img.933999.xyz/test1/2024/09/02/66d51ceae1564.png)
-
-<a href="https://pqblog.com"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
+- <a href="https://pqblog.com"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
 [![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](jasvip@vip.qq.com)
 
 ![Profile views](https://views.whatilearened.today/views/github/Xuenew/views.svg)
@@ -34,5 +32,8 @@
 ![](https://img.shields.io/badge/Cocos%20creator-blue.svg)
 
 <img height="130px" src="https://github-readme-stats.vercel.app/api?username=Xuenew&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="Xuenew's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xuenew&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
+[![header.png](https://minio-img.933999.xyz/test1/2024/09/02/66d51ceae1564.png)](https://minio-img.933999.xyz/test1/2024/09/02/66d51ceae1564.png)
+
+
 
 
