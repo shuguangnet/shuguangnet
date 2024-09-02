@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hey! I'm Xuenew. 🐘</h2>
+<h2 align="center">👋 Hey! I'm ShuGuang. 🐘</h2>
 <br />
 ❤️ 🍦 🍓 🍉 🍋 🥛 ☕ 🍗 🍟 🎮 💻 🎶 💰
 <br />
@@ -6,9 +6,9 @@
 
 - 🔭你好呀！💡
 
-- 🤔这里是忆阳的大象耳朵，会点小爬虫，想做一个有意思的前端工程师
+- 🤔这里是曙光，会点小技术，爱折腾，想做一个有意思的前端工程师也是一名合格的MJJ
 
-- ⚡ Fun fact:喜欢看动漫，喜欢看小说，喜欢听音乐，喜欢看电影，喜欢做游戏
+- ⚡ Fun fact:喜欢看动漫，喜欢看小说，喜欢听音乐，喜欢看电影，喜欢游戏
 
 
 <img align="center" src="./images/github-contribution-grid-snake.svg" style="max-width: 90%;">
