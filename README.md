@@ -11,7 +11,7 @@
 - ⚡ Fun fact:喜欢看动漫，喜欢看小说，喜欢听音乐，喜欢看电影，喜欢游戏
 [![header.png](https://minio-img.933999.xyz/test1/2024/09/02/66d51ceae1564.png)](https://minio-img.933999.xyz/test1/2024/09/02/66d51ceae1564.png)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Xuenew)
+<a href="https://pqblog.com"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
 [![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](1287986063@qq.com)
 [![](https://img.shields.io/badge/CSDN-吃瓜的瓜农-blue.svg)](https://blog.csdn.net/weixin_41804512)
 ![Profile views](https://views.whatilearened.today/views/github/Xuenew/views.svg)
