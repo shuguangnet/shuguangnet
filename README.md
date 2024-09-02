@@ -14,6 +14,7 @@
 <a href="https://img.933999.xyz"><img src="https://img.shields.io/badge/images-%E4%B8%AA%E4%BA%BA%E5%9B%BE%E5%BA%8A-brightgreen"></a>&emsp;
 <a hrrf="https://pan.shuguangwl.com"><img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E4%BA%91%E7%9B%98-%E8%87%AA%E5%BB%BA%E5%AF%B9%E8%B1%A1%E5%AD%98%E5%82%A8-brightgreen"></a>
 <a hrrf="https://191ka.cn"><img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%95%86%E5%9F%8E-Shop-green"></a>
+<a hrrf="https://api.shuguangwl.com"><img alt="Static Badge" src="https://img.shields.io/badge/Oauth-%E4%B8%AA%E4%BA%BA%E8%81%9A%E5%90%88%E7%99%BB%E9%99%86%E5%B9%B3%E5%8F%B0-red"></a>
 [![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](jasvip@vip.qq.com)
 ![Profile views](https://views.whatilearened.today/views/github/Xuenew/views.svg)
 ![](https://img.shields.io/badge/ubuntu-20.04-<COLOR>.svg)
