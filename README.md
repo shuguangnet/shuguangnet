@@ -12,8 +12,8 @@
 [![header.png](https://minio-img.933999.xyz/test1/2024/09/02/66d51ceae1564.png)](https://minio-img.933999.xyz/test1/2024/09/02/66d51ceae1564.png)
 
 <a href="https://pqblog.com"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
-[![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](1287986063@qq.com)
-[![](https://img.shields.io/badge/CSDN-吃瓜的瓜农-blue.svg)](https://blog.csdn.net/weixin_41804512)
+[![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](jasvip@vip.qq.com)
+
 ![Profile views](https://views.whatilearened.today/views/github/Xuenew/views.svg)
 
 
