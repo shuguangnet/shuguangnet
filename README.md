@@ -11,6 +11,8 @@
 - ⚡ Fun fact:喜欢看动漫，喜欢看小说，喜欢听音乐，喜欢看电影，喜欢游戏
 <a href="https://pqblog.com"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;&emsp;&emsp;
 <a href="https://img.933999.xyz"><img src="https://img.shields.io/badge/images-%E4%B8%AA%E4%BA%BA%E5%9B%BE%E5%BA%8A-brightgreen"></a>&emsp;
+<a hrrf="https://pan.shuguangwl.com"><img alt="Static Badge" src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E4%BA%91%E7%9B%98-%E8%87%AA%E5%BB%BA%E5%AF%B9%E8%B1%A1%E5%AD%98%E5%82%A8MINiO-brightgreen"></a>&emsp;
+
 [![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](jasvip@vip.qq.com)
 ![Profile views](https://views.whatilearened.today/views/github/Xuenew/views.svg)
 ![](https://img.shields.io/badge/ubuntu-20.04-<COLOR>.svg)
