@@ -1,4 +1,4 @@
-```markdown
+
 <h2 align="center">👋 Hey! I'm ShuGuang. 🐘</h2>
 <p align="center">
   <strong>🍨 🍓 🍉 🍋 🥛 ☕ 🍗 🍟 🎮 💻 🎶 💰</strong>
