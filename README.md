@@ -9,9 +9,6 @@
 <p align="center">
   🔭 你好呀！💡👋
 </p>
-<p align="center">
-  <img src='https://image.gincode.icu/file/e687c4ac42ce8d6a7ad01.png' width="25%" alt="Profile Image">
-</p>
 
 ### 🚀 About Me
 - 🤔 这里是曙光，会点小技术，爱折腾，目标是成为有趣的前端工程师以及合格的 MJJ。
