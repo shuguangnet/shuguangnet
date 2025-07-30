@@ -33,5 +33,5 @@
 
 ### 🛠️ Technologies & Tools
 <p align="center">
-![image](https://ping0.cc/img1)
+<img src="https://ping0.cc/img1" height="138px">
 
