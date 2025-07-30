@@ -33,3 +33,5 @@
 
 ### 🛠️ Technologies & Tools
 <p align="center">
+![image](https://ping0.cc/img1)
+
